@@ -1,5 +1,5 @@
 # CMSC422PlannerProject
-In this folder there are 2 jupyter notebooks.
+In this folder there are 2 jupyter notebooks. There is also a copy of the data I collected in an excel file called blocksworld_data
 
 domain_independent.ipynb and htn.ipynb, which contains methods to their respective planners.
 
